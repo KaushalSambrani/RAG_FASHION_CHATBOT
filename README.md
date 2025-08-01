@@ -19,7 +19,7 @@ A fashion-focused AI assistant for answering queries about products, policies, a
 
 ## 🚀 Demo
 
-![screenshot](assets/screenshot.png) <!-- optional: replace or remove if not available -->
+![screenshot](assets/Screenshot.png) <!-- optional: replace or remove if not available -->
 
 ---
 
