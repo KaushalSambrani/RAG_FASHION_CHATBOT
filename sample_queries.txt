@@ -1,0 +1,12 @@
+###🧪 Sample Queries
+Try these in the assistant:
+
+- "Show me sarees under Rs 3000"
+
+- "Which products are rated above 4.5?"
+
+- "Tell me about your return policy"
+
+- "What’s available in the Artisan Series collection?"
+
+- "Do you have anything suitable for office wear?"
