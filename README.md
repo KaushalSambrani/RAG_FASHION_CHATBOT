@@ -87,4 +87,11 @@ bash
 streamlit run app.py
 ```
 Then open http://localhost:8501 in your browser.
+## 🚀 Future Scope
+
+- Add conversation memory (e.g., ConversationBufferMemory) to enable context-aware follow-up queries.
+- Integrate multi-modal support (e.g., product image-based retrieval).
+- Replace FAISS with cloud-native vector DBs (e.g., Chroma, Weaviate) for scaling.
+- Include feedback mechanism for user ratings on chatbot responses.
+
 
