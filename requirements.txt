@@ -1,0 +1,7 @@
+langchain 
+huggingface_hub 
+openai 
+pinecone-client 
+faiss-cpu
+sentence-transformers
+python-dotenv
